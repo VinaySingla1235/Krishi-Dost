@@ -1,0 +1,9 @@
+flask
+requests
+tensorflow
+keras
+scikit_learn
+torch
+torchvision
+numpy
+pandas
