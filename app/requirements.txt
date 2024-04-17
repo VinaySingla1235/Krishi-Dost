@@ -2,6 +2,7 @@ numpy
 pandas
 torch
 torchvision
+pickle
 Flask==2.3
 scikit-learn
 requests
