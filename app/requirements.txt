@@ -1,6 +1,7 @@
 numpy
 pandas
-Flask
+torch
+Flask==2.2
 scikit-learn
 requests
 Pillow
